@@ -1,0 +1,110 @@
+{
+  "resources": [
+    "audioAssets.ogg",
+    "audioAssets.m4a",
+    "audioAssets.mp3",
+    "audioAssets.ac3"
+  ],
+  "spritemap": {
+    "airFilled": {
+      "start": 0,
+      "end": 52.06204081632653,
+      "loop": false
+    },
+    "boof2": {
+      "start": 54,
+      "end": 54.20607709750567,
+      "loop": false
+    },
+    "boof": {
+      "start": 56,
+      "end": 57.85759637188209,
+      "loop": false
+    },
+    "burnBaby": {
+      "start": 59,
+      "end": 60.37578231292517,
+      "loop": false
+    },
+    "button": {
+      "start": 66,
+      "end": 66.35845804988662,
+      "loop": false
+    },
+    "click": {
+      "start": 68,
+      "end": 68.17995464852608,
+      "loop": false
+    },
+    "Death-bug-alien": {
+      "start": 70,
+      "end": 71.04489795918367,
+      "loop": false
+    },
+    "Death-digi": {
+      "start": 73,
+      "end": 73.38489795918368,
+      "loop": false
+    },
+    "Death-piggy": {
+      "start": 75,
+      "end": 75.7677097505669,
+      "loop": false
+    },
+    "Death-sheepi": {
+      "start": 77,
+      "end": 77.38473922902494,
+      "loop": false
+    },
+    "GameStart": {
+      "start": 79,
+      "end": 85.03718820861678,
+      "loop": false
+    },
+    "littleBurp": {
+      "start": 87,
+      "end": 87.48761904761905,
+      "loop": false
+    },
+    "PlayerDamage": {
+      "start": 89,
+      "end": 89.65532879818593,
+      "loop": false
+    },
+    "record1": {
+      "start": 91,
+      "end": 121.41151927437642,
+      "loop": false
+    },
+    "record2": {
+      "start": 123,
+      "end": 135.487052154195,
+      "loop": false
+    },
+    "record3": {
+      "start": 137,
+      "end": 180.89947845804988,
+      "loop": false
+    },
+    "shot1": {
+      "start": 182,
+      "end": 182.15673469387755,
+      "loop": false
+    },
+    "shot2": {
+      "start": 184,
+      "end": 184.22131519274376,
+      "loop": false
+    },
+    "steelBreak": {
+      "start": 186,
+      "end": 186.55215419501133,
+      "loop": false
+    },
+    "walking": {
+      "start": 188,
+      "end": 189.1958276643991,
+      "loop": false
+    }
+  }
+}
